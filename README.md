@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Connect with Me
-[![lasse.1](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/951879340759584798)
+
 
 
 <!---
