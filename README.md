@@ -21,8 +21,7 @@
 ---
 
 ### 📫 Connect with Me
-[![lasse.1](https://img.shields.io/badge/lasse.1-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/951879340759584798){:target="_blank" rel="noopener"}
-
+[![lasse.1](https://img.shields.io/badge/lasse.1-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/951879340759584798){:target="_blank"}.
 <!---
 lasse-1/lasse-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
