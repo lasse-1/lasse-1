@@ -1,4 +1,4 @@
-### Hi there, I'm [Lasse] 👋
+### Hi there, I'm Lasse 👋
 
 🚀 **Developer & Creator** | JavaScript, TypeScript, Verse
 
